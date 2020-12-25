@@ -9,6 +9,6 @@ Te pliki muszą zostać wydany na licencji CC BY-NC 4.0 co prowadzi do tego iż:
 
 ## Nasze strony
 
-Strona www: https://ExtremeOnly.net.pl/www/
-Zgłoś błąd: https://ExtremeOnly.net.pl/bug
-Stan techniczny: https://extremeonly.statuspage.io/
+Strona www: https://ExtremeOnly.net.pl/www/<br />
+Zgłoś błąd: https://ExtremeOnly.net.pl/bug<br />
+Stan techniczny: https://extremeonly.statuspage.io/<br />
